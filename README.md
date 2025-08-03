@@ -1,20 +1,45 @@
 # Openmill-3D
 
-Openmill-3D は、3Dプリンタで製作可能なパーツを使用した、初心者向けオープンソースCNCマシンプロジェクトです。  
-現在は試作・開発段階であり、仕様や構造は今後変更される可能性があります。
+---
 
-## 特徴
+## 日本語
 
-- 3Dプリンタで出力できる部品を多用
-- 卓上サイズのコンパクト設計
-- オープンソース（※商用利用不可）
+Openmill-3Dは、3Dプリンタで製作可能なパーツを多用した、初心者向けのオープンソースCNCマシンプロジェクトです。  
+現在は開発途中の試作段階であり、仕様や設計は今後変更される可能性があります。
 
-## 注意事項
+### 特徴
 
-- このプロジェクトは開発途中です。
-- 商用利用は禁止されています（CC-BY-NC-SA 4.0）。
-- 使用・改造・再配布によって生じたいかなる損害にも、作者は責任を負いません。
+- 3Dプリンタ製パーツによるコンパクト設計  
+- 卓上サイズで個人利用に適しています  
+- オープンソース（商用利用不可）  
 
-## ライセンス
+### 注意事項
 
-[Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ja)
+- 商用利用（営利目的での販売や製品組み込みなど）は禁止されています。  
+- 本プロジェクトの利用や改変による損害やトラブルに対して、作者は一切の責任を負いません。  
+- ライセンスは「Creative Commons BY-NC-SA 4.0」です。
+
+---
+
+## English
+
+Openmill-3D is an open-source CNC machine project designed primarily for beginners, utilizing many parts printable by 3D printers.  
+It is currently in a prototype development stage, and specifications or designs may change in the future.
+
+### Features
+
+- Compact design with 3D printable parts  
+- Suitable for desktop use and personal projects  
+- Open source (non-commercial use only)  
+
+### Disclaimer
+
+- Commercial use (selling, embedding in products for profit, etc.) is prohibited.  
+- The author takes no responsibility for any damages or issues caused by using or modifying this project.  
+- Licensed under Creative Commons BY-NC-SA 4.0.
+
+---
+
+## License
+
+This project is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
